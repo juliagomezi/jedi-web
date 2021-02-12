@@ -1,0 +1,21 @@
+#profile-picture {
+	width: 80%;
+}
+
+#description {
+	width: 90%;
+
+	align-self: center;
+	margin-left: 0px;
+	background-color: white;
+}
+
+main {
+	display: flex;
+}
+
+#row-info-1 {
+	flex: 1;
+	
+	background-color: transparent;
+}

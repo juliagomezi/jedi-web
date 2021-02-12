@@ -1,0 +1,10 @@
+.project-photo {
+	width: 40%;
+}
+
+.project-photo:hover {
+	transform: scale(1.05);
+	cursor: pointer;
+}
+
+
